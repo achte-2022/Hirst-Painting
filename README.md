@@ -16,7 +16,7 @@ pip install colorgram.py
 To Run:
 
 ```sh
-git clone 
+git clone git@github.com:achte-2022/Hirst-Painting.git
 cd Hirst-Painting
 python3 main.py
 ```

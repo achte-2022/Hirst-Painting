@@ -6,6 +6,7 @@ Using Python to recreate a Damien Hirst spot painting on a Black screen with col
 
 ### Requirements:
 [Colorgram](https://pypi.org/project/colorgram.py/)
+
 [Turtle](https://docs.python.org/3/library/turtle.html)
 
 
